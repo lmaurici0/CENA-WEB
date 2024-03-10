@@ -13,7 +13,7 @@ module.exports = {
       database: 'database_cena',
       host: 'localhost',
       dialect: 'mysql',
-      logging: console.log
+      logging: console.log 
     },
     production: {
       username: 'root',
