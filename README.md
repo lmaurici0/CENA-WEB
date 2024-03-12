@@ -1,4 +1,4 @@
-# SGA Online
+# CENA - WEB
 
 Sistema de Gerenciamento de Alunos desenvolvido com Python, NodeJs e MySQL
 
